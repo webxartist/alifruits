@@ -8,7 +8,7 @@ import {
 } from "../services/api";
 
 import FruitHero from "../components/Hero";
-import ProductSection from "../components/home/ProductSection";
+import ProductSection from "../components/Home/ProductSection";
 
 export default function Home() {
   // ============================================================
